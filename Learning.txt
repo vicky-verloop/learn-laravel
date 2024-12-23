@@ -1,0 +1,31 @@
+- Installation
+- Directory Structure
+- Template Integration
+- Routing
+- Authenticate, Middleware, Provider, Hashing, Encryption
+- Helpers
+- Validations
+- Forget Password
+- Email Sending
+- Guard and Multiple Guard
+- Migration, Seeder
+- Model, View, Controller
+- CRUD without yajra - server side datatables
+- CRUD with yajra - server side datatables
+- CRUD with Ajax
+- Filter with ajax  and filter with yajra
+- Event, Listener, Scheduler and Queue
+- Eloquent and DB::raw()
+- Spatie Role Permission
+- Spatie Image Reducer and upload single and multiple
+- Nwidart Laravel modules (HMVC)
+- API
+- Filament, Livewire
+- Multiple Database Connection
+- SAAS (Software as a Service)
+- Broadcast, MQTT and Rabbitmq
+- Redis
+- Postgres, Docker
+
+
+
