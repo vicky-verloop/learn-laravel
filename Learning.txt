@@ -1,5 +1,5 @@
-- Installation
-- Directory Structure
+- Installation - Done
+- Directory Structure - Done
 - Template Integration
 - Routing
 - Authenticate, Middleware, Provider, Hashing, Encryption
